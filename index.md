@@ -26,7 +26,7 @@ Cons of using Git:
  - Bad Windows support
 
 ## Git Fundamentals
-###Configure Git
+### Configure Git
 In order to configure Git properly, first you must open gitbash or a terminal. After opening either, try running git --version to ensure git is installed.
 Git should probably know who you are, add your email and name by running the following commands
 '''
