@@ -32,7 +32,7 @@ Cons of using Git:
 - Aiden is a programmer and web developer, who enjoys gardening, playing games, and going out with friends.
 
 **Cole**
- - write yours here
+ - Cole is a programmer who specializes in C# but has fairly extensive knowledge in Python, Java, HTML and more. He enjoy mountain biking, cats, spending time with friends and playing games.
 
 **Spike**
  - write yours here
