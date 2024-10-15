@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Document
+title:  What is _Git_?
 nav_order: 3
 ---
 
