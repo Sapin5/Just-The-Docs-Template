@@ -89,7 +89,7 @@ https://github.com/github/gitignore
  - Cole is a programmer who specializes in C# but has fairly extensive knowledge in Python, Java, HTML and more. He enjoy mountain biking, cats, spending time with friends and playing games.
 
 **Spike**
- - write yours here
+ - A very talented programmer
 
 **Santiago**
  - Is a programmer with experience in Java, Python, and C#. He enjoys biking, running, and playing a variety of games
