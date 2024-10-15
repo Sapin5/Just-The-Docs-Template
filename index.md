@@ -76,7 +76,7 @@ Data.xlx
 # Ignore all files in a given folder
 supercoolfolder/
 ```
-Below is a list of handy .gitignore files for a variety of purposes
+Here is a list of handy .gitignore files for a variety of purposes
 https://github.com/github/gitignore
 
 
