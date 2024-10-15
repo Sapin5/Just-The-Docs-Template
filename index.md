@@ -33,7 +33,7 @@ Git should probably know who you are, add your email and name by running the fol
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
-### Initializing your first repo
+### Initializing Your First Repo
 To initialize your first repo, navigate to the folder in which you would like to the main folder for your project. Create a .ignore file to ignore any files that you would not like to be tracked. Once this is done, you can run the following command:
 ```
 git init .
@@ -60,6 +60,24 @@ git log displays a branches commit history. Running it will provide you with a d
 ```
 git log
 ```
+
+### Using The Git Ignore File
+If there is certain file(s) or file type(s) you would like git to exclude/ignore, you can create a simple .gitignore file in the projects root folder.
+```
+# Ignore specific files by adding them
+Data.xlx
+
+# ignore all specified file types (WildCard)
+*.exe
+
+# Add an exception to the wild card exclusion
+!file.a
+
+# Ignore all files in a given folder
+supercoolfolder/
+```
+Below is a list of handy .gitignore files for a variety of purposes
+https://github.com/github/gitignore
 
 
 # Team Biography
