@@ -35,7 +35,7 @@ Cons of using Git:
  - write yours here
 
 **Spike**
- - A programmer
+ - A very talented programmer
 
 **Santiago**
  - write yours here
