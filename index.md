@@ -14,13 +14,13 @@ If a mistake is made, developers can turn back the clock and compare earlier ver
 - Aiden is a programmer and web developer, who enjoys gardening, playing games, and going out with friends.
 
 **Cole**
- - write yours here
+ - Cole is a programmer who specializes in C# but has fairly extensive knowledge in Python, Java, HTML and more. He enjoy mountain biking, cats, spending time with friends and playing games.
 
 **Spike**
- - write yours here
+ - A very talented programmer
 
 **Santiago**
- - write yours here
+ - Is a programmer with experience in Java, Python, and C#. He enjoys biking, running, and playing a variety of games
 
 **Alex**
  - write yours here
