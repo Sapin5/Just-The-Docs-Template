@@ -23,4 +23,4 @@ If a mistake is made, developers can turn back the clock and compare earlier ver
  - Is a programmer with experience in Java, Python, and C#. He enjoys biking, running, and playing a variety of games
 
 **Alex**
- - write yours here
+ - Alex likes to learn new programming concepts by stubbornly slamming her face against them until they click. She has experience in C#, C++, and Javascript, and enjoys engine level programming for games.
