@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Branch
-nav_order: 2
+nav_order: 8
 ---
 <!-- prettier-ignore-start -->
 # When to Use Different Strategies for Creating, Using, and Merging Branches in Git
