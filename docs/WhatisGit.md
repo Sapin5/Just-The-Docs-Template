@@ -74,3 +74,18 @@ supercoolfolder/
 Here is a list of handy .gitignore files for a variety of purposes
 https://github.com/github/gitignore
 
+
+
+<!-- prettier-ignore-start -->
+# Main Title for Module 
+{: .no_toc }
+
+A short introductory paragraph for the module to come before the table of contents.
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
