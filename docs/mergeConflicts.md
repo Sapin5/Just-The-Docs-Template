@@ -20,7 +20,8 @@ Git uses special markers to indicate the start and end of the conflicted area:
 ======= separator between the changes in the current and the other branch.
 ```plaintext
 >>>>>>> branch-name
-``` shows the end of the changes in the other branch.
+```
+shows the end of the changes in the other branch.
 
 ---
 
