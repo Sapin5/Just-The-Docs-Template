@@ -24,3 +24,5 @@ Only the specified file is affected, and no commits or other changes are impacte
 ## When to Use
 
 Use `git checkout` if you only want to discard changes in your working directory without affecting the staging area or commit history.
+
+---
