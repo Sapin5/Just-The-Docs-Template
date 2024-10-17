@@ -11,8 +11,8 @@ We are a team of 5 people
   - Using Git ignore File
 ### Aiden
   - What is Git (inculding Pros and Cons) ✅
-  - The Git Life cycle
-  - Remote Repositories
+  - The Git Life cycle ✅
+  - Remote Repositories ✅
 ### Cole
   - The How and Why of Team Git Workflow
     - Centralized Workflow
