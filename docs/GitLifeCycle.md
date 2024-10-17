@@ -3,6 +3,8 @@ layout: default
 title: Git Life Cycle
 nav_order: 4
 ---
+
+<!-- prettier-ignore-start -->
 # The Git Life Cycle
 {: .no_toc }
 

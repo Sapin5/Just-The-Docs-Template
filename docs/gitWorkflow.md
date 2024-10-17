@@ -4,7 +4,9 @@ title: Git Workflow
 nav_order: 4
 ---
 
+<!-- prettier-ignore-start -->
 # Why git?
+{: .no_toc }
 
 With Git we can undo almost anything.
 The Usual Three Ways of Undo:
@@ -41,3 +43,11 @@ source applications.
 ![Git Lifecycle](../images/lifecycle.png)
 
 ---
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->

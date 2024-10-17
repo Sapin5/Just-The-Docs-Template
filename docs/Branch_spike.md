@@ -3,9 +3,9 @@ layout: default
 title: Branch
 nav_order: 2
 ---
-
+<!-- prettier-ignore-start -->
 # When to Use Different Strategies for Creating, Using, and Merging Branches in Git
-
+{: .no_toc }
 Branches are an essential feature in Git that allow you to work on different parts of a project simultaneously, without affecting the main codebase. Understanding when to create, use, and merge branches is crucial for efficient version control and collaborative development. Below, we'll explore the key strategies and best practices for working with branches in Git.
 
 ---
@@ -170,3 +170,11 @@ Use rebasing when you want to avoid creating merge commits and keep a clean, lin
   Use rebase to maintain a clean history, but be cautious when working with public branches, as it rewrites history.
 
 ---
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->

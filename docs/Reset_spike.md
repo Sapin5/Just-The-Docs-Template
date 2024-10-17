@@ -4,7 +4,6 @@ title: Reset
 parent: Undoing
 nav_order: 2
 ---
-
 # When to Use `git reset`
 
 ## Best for: Undoing staged changes or revising commit history
