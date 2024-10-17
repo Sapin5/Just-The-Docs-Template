@@ -1,28 +1,13 @@
 ---
 layout: default
-title:  What is _Git_?
+title:  Git Fundimentals
 nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
-# What is _Git_?
+## Git Fundamentals
 {: .no_toc }
 
-By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
-
-Pros of using Git:
- - It's really quick
- - Local commits rock
- - Quick to start a new repository (no configuration etc)
- - github is easy to use
-
-Cons of using Git:
- - Lack of IDE and Explorer integration
- - Cannot checkout a part of the repository
- - Does not track empty folders
- - Bad Windows support
-
-## Git Fundamentals
 ### Configure Git
 In order to configure Git properly, first you must open gitbash or a terminal. After opening either, try running git --version to ensure git is installed.
 Git should probably know who you are, add your email and name by running the following commands
