@@ -4,7 +4,9 @@ title: Merge Conflicts
 nav_order: 3
 ---
 
+<!-- prettier-ignore-start -->
 # What is a merge conflict?
+{: .no_toc }
 
 Merge conflicts occur when Git can't automatically merge two branches.
 When a merge conflict happens, Git will alert you in the terminal and mark the areas of
@@ -38,3 +40,11 @@ To resolve a merge conflict:
 Only the specified file is affected, and no commits or other changes are impacted.
 
 ---
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
