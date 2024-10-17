@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  What is Stashing in git?
+title:  What are Tags in git?
 nav_order: 5
 ---
 
