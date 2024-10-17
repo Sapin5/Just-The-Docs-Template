@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 ## What is _Stashing_ in Git?
+{: .no_toc }
 
 Stashing is a way of hiding away changes made to a repository either to be added to a later commit, or brought to another branch. The stash functions like stacking papers, where the most recently added items are the ones that will be removed first.
 To put a set of changes on the stash, you can use the terminal command `git stash push`.
@@ -16,3 +17,12 @@ The `stash push` command can be used alongside several optional parameters such 
  - `-u`/`--include-untracked`: includes untracked files, which are then removed from the working directory.
  - `-s`/`--staged`: only pushes staged filed to the stash. Basically works like a commit to the stash instead of the current branch.
  - `--patch`: pick and chose individual changes to be stashed within the working directory.
+
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
