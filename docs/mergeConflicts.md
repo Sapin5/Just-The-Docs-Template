@@ -14,17 +14,23 @@ conflict in the file.
 
 ## Git's Markup of Conflicted Files
 Git uses special markers to indicate the start and end of the conflicted area:
+
 ```plaintext
 <<<<<<< HEAD
 ```
+
 and: 
+
 ```plaintext
 ======= 
 ```
+
 as the separator between the changes in the current and the other branch.
+
 ```plaintext
 >>>>>>> branch-name
 ```
+
 shows the end of the changes in the other branch.
 
 ---
