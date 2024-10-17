@@ -4,7 +4,9 @@ title:  What is _Git_?
 nav_order: 3
 ---
 
-## What is _Git_?
+<!-- prettier-ignore-start -->
+# What is _Git_?
+{: .no_toc }
 
 By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
 
@@ -74,13 +76,6 @@ supercoolfolder/
 Here is a list of handy .gitignore files for a variety of purposes
 https://github.com/github/gitignore
 
-
-
-<!-- prettier-ignore-start -->
-# What is _Git_?
-{: .no_toc }
-
-A short introductory paragraph for the module to come before the table of contents.
 
 ## Table of Contents
 {: .no_toc }
