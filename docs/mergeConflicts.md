@@ -17,7 +17,11 @@ Git uses special markers to indicate the start and end of the conflicted area:
 ```plaintext
 <<<<<<< HEAD
 ```
-======= separator between the changes in the current and the other branch.
+and: 
+```plaintext
+======= 
+```
+as the separator between the changes in the current and the other branch.
 ```plaintext
 >>>>>>> branch-name
 ```
